@@ -1,4 +1,4 @@
-# Hangman
+# Hangman_Python
 
 The classic game of hangman (normally consisting of two players) for all ages, used to improve the the spelling skills of the speller. New and improved version now consists of one player, who shall be guessing the word.
 
